@@ -1,0 +1,29 @@
+body {
+    
+    background-color: antiquewhite;
+    
+}
+body h2 {
+    background-color: aquamarine;
+    border-radius: 10px;
+    color: #ff0000;
+}
+body section {
+    display:flex;
+}
+body section article img {
+    height: 600px;
+    width: 700px;
+    
+}
+body section aside {
+    
+    text-align: center;
+    margin: auto;
+    padding: 2rem;
+}
+body footer h1 {
+    margin: 2rem;
+    padding: 2rem;
+    text-align: center;
+}
